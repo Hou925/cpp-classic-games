@@ -1,8 +1,7 @@
-# OOP-CppProjects
-Several c++ projects based on object-oriented programming methods
+## Clasicc Games Development by cpp
 
-Involving graphics drawing, compression techniques, game design, etc
+Several c++ games based on object-oriented programming methods
 
-一些基于面向对象编程方法的c++项目
+Involving a digital clock, snake game, and pop stars.
 
-涉及图形绘制、压缩技术、游戏设计等
+Providing you with attractive graphical interfaces and smooth interactive experiences.
